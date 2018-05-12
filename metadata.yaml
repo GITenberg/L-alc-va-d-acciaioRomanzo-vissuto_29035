@@ -1,0 +1,31 @@
+_repo: L-alc-va-d-acciaioRomanzo-vissuto_29035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marinetti, F. T.
+    alias: Marinetti, Filippo Tommaso
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '7634'
+    url: http://www.gutenberg.org/2009/agents/7634
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+    - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2009-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29035'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: 'L''alcòva d''acciaio: Romanzo vissuto'
+url: http://www.gutenberg.org/ebooks/29035
