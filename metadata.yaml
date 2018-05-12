@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
     - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29035#L-alc-va-d-acciaioRomanzo-vissuto
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2009-06-04'
 gutenberg_type: Text
